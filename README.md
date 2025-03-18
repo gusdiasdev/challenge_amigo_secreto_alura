@@ -1,3 +1,5 @@
+## 🔨 Funcionalidades do projeto
+
 O Amigo Secreto é um jogo de sorteio simples e divertido, que funciona da seguinte maneira:
 
 Digite o nome dos seus amigos.
